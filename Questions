@@ -1,0 +1,14 @@
+Questions
+
+How best to do the favorite sights photo section?
+Why a table caption and not a header?
+
+How to get text in one section to vary from the rest?
+
+Scaling photo for background?
+	section#background-photo{
+	width: 100%;
+	margin: 0;
+}
+
+How do I get rid of white lines between sections?

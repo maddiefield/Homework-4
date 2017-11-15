@@ -14,7 +14,7 @@
 } 
 h1,h2,h3,h4,h5,h6{
 	font-family: 'Open Sans', sans-serif;
-	margin: 20px;
+	margin-bottom: 20px;
 }
 p, ul{
 	font-family: 'PT Serif', serif;
@@ -31,6 +31,12 @@ h3{
 p, ul{
 	font-size: 16pt;
 }
+section#background-photo {
+	background-image: url ("https://c1.staticflickr.com/5/4129/4993389839_1ebd1a5588_b.jpg");
+	height: 300px;
+	
+}
+
 section#photo-section p{
 	font-family: 'Open Sans', sans-serif;
 	font-size: 12pt;
@@ -68,6 +74,9 @@ div#favorite-sights-text{
 div#favorite-sights-photos img{
 	width: 80px ;
 }
+div#favorite-sights-photos p{
+	display: inline;
+}
 section#best-books{
 	background-color: #B8D280;
 }
@@ -77,3 +86,7 @@ section#best-books h2{
 th{
 	color: #FFFFFF;
 }
+td{
+	width: 100px;
+}
+
