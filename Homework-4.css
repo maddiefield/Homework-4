@@ -1,0 +1,79 @@
+/*COLORS
+	Teal: #469897
+	Light Green: #F4F7E2
+	Lime Green: #B8D280
+	Dark Blue: #27638D
+	White: #FFFFFF */
+/*FONTS
+	font-family: 'Open Sans', sans-serif;
+	font-family: 'PT Serif', serif;*/
+
+*{
+    margin: 0;
+    padding: 0;
+} 
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Open Sans', sans-serif;
+	margin: 20px;
+}
+p, ul{
+	font-family: 'PT Serif', serif;
+}
+h1{
+	font-size: 48pt;
+}
+h2{
+	font-size: 24pt;
+}
+h3{
+	font-size: 18pt;
+}
+p, ul{
+	font-size: 16pt;
+}
+section#photo-section p{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 12pt;
+}
+section#photo-section h2{
+	font-size: 16pt;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bolder;
+	margin: 3pt;
+}
+section#photo-section{
+	text-align: center;
+	background-color: #FFFFFF;
+	width: 370px; 
+	margin: 0 auto;
+}
+section#my-neighborhood{
+	background-color: #469897;
+}
+div#my-neighborhood-inner{
+	width: 500px;
+}
+div#my-neighborhood-inner p, h1, h3{
+	color: #FFFFFF;
+}
+div#my-neighborhood-inner img{
+	width: 300px;
+}
+section#favorite-sights{
+	background-color: #F4F7E2;
+}
+div#favorite-sights-text{
+	width: 500px;
+}
+div#favorite-sights-photos img{
+	width: 80px ;
+}
+section#best-books{
+	background-color: #B8D280;
+}
+section#best-books h2{
+	color: #FFFFFF;
+}
+th{
+	color: #FFFFFF;
+}

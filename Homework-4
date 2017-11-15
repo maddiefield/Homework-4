@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>About Me</title>
+	<link rel="stylesheet" type="text/css" href="Homework-4.css">
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans|PT+Serif" rel="stylesheet">
+</head>
+
+<body>
+	<section id="background-photo">
+		<img src="https://c1.staticflickr.com/5/4129/4993389839_1ebd1a5588_b.jpg" alt="Scenic Background">
+	</section>
+	<section id="photo-section">
+		<img src="https://scholasticahq.com/images/about/staff/mfield.png" alt="Maddie Field">
+			<h2>Maddie Field</h2>
+			<p>4132 N Racine<p>
+			<p>Chicago, IL</p>
+			<p>60613</p>
+	</section>
+	<section id="my-neighborhood">
+		<div id="my-neighborhood-inner">
+			<img src="https://instagram.ford1-1.fna.fbcdn.net/t51.2885-15/e35/23099055_985207234953880_3190580798738661376_n.jpg">
+			<h1>My Neighborhood</h1>
+			<h3>Wrigleyville</h3>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+		</div>
+	</section>
+	<section id="favorite-sights">
+		<div id="favorite-sights-text">
+			<h2>My Favorite Neighborhood Sights</h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+		</div>
+		<div id="favorite-sights-photos">
+			<img src="https://instagram.ford1-1.fna.fbcdn.net/t51.2885-15/e35/15057267_1801653666765495_3984489491766181888_n.jpg" alt="Music Box Theater">
+			<p>Music Box Theater</p>
+			<img src="https://instagram.ford1-1.fna.fbcdn.net/t51.2885-15/e35/15057267_1801653666765495_3984489491766181888_n.jpg" alt="Guthries">
+			<p>Guthries</p>
+			<img src="https://instagram.ford1-1.fna.fbcdn.net/t51.2885-15/e35/15057267_1801653666765495_3984489491766181888_n.jpg" alt="Cozy Noodle">
+			<p>Cozy Noodle</p>
+		</div>
+	</section>
+	<section id="best-books">
+		<h2>The Best Things I Read in 2017</h2>
+		<table>
+			<tr>
+				<th>Title<th>
+				<th>Author<th>
+				<th>Year<th>
+			</tr>
+			<tr>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+		</table>
+	</section>
+</body>
+
+
+
+
+
+
+
+
+
+
+
